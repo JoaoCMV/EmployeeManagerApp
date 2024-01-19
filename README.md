@@ -13,3 +13,5 @@ First project with some basic Angular. There are two projects in this repository
 * Angular CLI version 17.0.5.
 * PostGreSQL
 * Spring
+* HTML
+* JavaScript
